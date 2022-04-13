@@ -70,7 +70,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de texto utilizado.
 * [Bootstrap](https://getbootstrap.com/) - Framework de estilos utilizado.
 * [Jquery](https://rometools.github.io/rome/) - Usado para generar RSS
-*[JqueryCDN](https://code.jquery.com/jquery-3.6.0.min.js) - Libreria externa de javascript para efectos visuales.
+* [JqueryCDN](https://code.jquery.com/jquery-3.6.0.min.js) - Libreria externa de javascript para efectos visuales.
 * [Fontawesome](https://fontawesome.com/) - Framework para iconos.
 * [FontawesomeCDN](https://cdnjs.com/libraries/font-awesome) - CDN usado para libreria externa.
 * [GoogleFonts](https://fonts.google.com/) - Libreria externa para las fuentes.

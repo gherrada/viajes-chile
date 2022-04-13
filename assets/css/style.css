@@ -8,3 +8,18 @@ body{
     color: #FFFFFF;
     font-family: 'Raleway', sans-serif;
 }
+
+#destacados img{
+    max-height: 150px;
+}
+
+.tooltip-inner{
+    color: #000000;
+    background-color: #cf3131;
+    opacity: 1;
+}
+
+
+.tooltip.bs-tooltip-end .tooltip-arrow::before {
+    border-right-color: #cf3131;
+}
